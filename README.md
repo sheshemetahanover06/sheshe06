@@ -1,9 +1,9 @@
 # TUGAS PRAKTIKUM 6
 # Data Diri
 
-Nama : Muhammad Aziz Tri Ramadhan
+Nama : She She Metahanover
 
-NIM : 312410380
+NIM : 312410432
 
 Kelas : TI,24.A.3
 
@@ -15,35 +15,35 @@ Kelas : TI,24.A.3
 
 ## 1. input tambah data 
 
-<img src="input1.png">
+<img src="inout tambah data.png">
 
 ## outpu tambah data 
 
-<img src="output1.png">
+<img src="output tambah data.png">
 
 ## 2. input tampilkan data
 
-<img src="input2.png">
+<img src="input tampilkan data.png">
 
 ## output tampilkan data 
 
-<img src="output2.png">
+<img src="output tampilkan data.png">
 
 ## 3. input hapus data
 
-<img src="input3.png">
+<img src="input haput data.png">
 
 ## output hapus data
 
-<img src="output3.png">
+<img src="output hapus data.png">
 
 ## 4.  input ubah data
 
-<img src="input4.png">
+<img src="input ubah data.png">
 
 ## output uba data
 
-<img src="output4.png">
+<img src="output ubah data.png">
 
 
 # Penjelasan Algoritma:
