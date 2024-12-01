@@ -15,7 +15,7 @@ Kelas : TI,24.A.3
 
 ## 1. input tambah data 
 
-<img src="inout tambah data.png">
+<img src="input tambah data.png">
 
 ## outpu tambah data 
 
@@ -31,7 +31,7 @@ Kelas : TI,24.A.3
 
 ## 3. input hapus data
 
-<img src="input haput data.png">
+<img src="input hapus data.png">
 
 ## output hapus data
 
